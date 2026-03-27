@@ -4,6 +4,12 @@ A Python agent that reads job URLs from an Excel file, opens each one in a brows
 
 ---
 
+## Why I Chose Option 1
+
+I chose Option 1 because it covers a complete automation workflow from start to finish. Reading a file, controlling a browser, handling errors, and delivering output over email felt like a realistic and well-rounded problem to solve. It also made it easy to show how the agent handles broken or inaccessible links without crashing.
+
+---
+
 ## Demo Video
 
 Link: https://youtu.be/jAH7v74Ri0c?si=pCUUNVzL0erCgVpj
